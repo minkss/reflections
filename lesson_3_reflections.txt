@@ -1,1 +1,2 @@
 When would you want to use a remote repository rather than keeping all your work local?
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
